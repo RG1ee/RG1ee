@@ -5,7 +5,7 @@
 ### 🖖🏻 About me
 - My name is Roman
 - I am 19 years old
-- I live in Russia
+- Currently in Russia
 
 
 [![telegram](https://img.shields.io/badge/Telegram-384754?style=for-the-badge&logo=Telegram)](https://t.me/whykittzy)
