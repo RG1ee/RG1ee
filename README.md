@@ -10,7 +10,6 @@
 
 [![telegram](https://img.shields.io/badge/Telegram-384754?style=for-the-badge&logo=Telegram)](https://t.me/whykittzy)
 [![mail](https://img.shields.io/badge/eMail-384754?style=for-the-badge&logo=GMail)](mailto:sayhellokittzy@gmail.com)
-[![mail](https://img.shields.io/badge/instagram-384754?style=for-the-badge&logo=instagram)](https://instagram.com/whykittzy)
 
 ### 💪🏻 My skills
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
