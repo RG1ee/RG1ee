@@ -18,8 +18,6 @@
 ![GitHUB](https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
-![snake gif](https://github.com/RG1ee/RG1ee/blob/output/github-contribution-grid-snake.svg)
-
 <details><summary><h3> 📊 GitHub Stats </h3></summary>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RG1ee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&custom_title=Kittzy"/>
