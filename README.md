@@ -1,8 +1,5 @@
 <h1 align="center">
-<p>─▄▀▄─────▄▀▄</p>
-<p>─▄█░░▀▀▀▀▀░░█▄</p>
-<p>──▄▄─█░░░░░░░░░░░█──▄▄</p>
-<p>─█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█</p>
+    <strong>@kittzy</strong>
 </h1>
 
 <h3 align="center">Python Backend Developer<h3>
