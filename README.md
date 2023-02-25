@@ -18,6 +18,8 @@
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![drf](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![GitHUB](https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=darkblue)
 
 ### Wokrspace
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=orange)
