@@ -14,10 +14,10 @@
 [![mail](https://img.shields.io/badge/eMail-384754?style=for-the-badge&logo=GMail)](mailto:sayhellokittzy@gmail.com)
 
 ### My stack
-![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![drf](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![GitHUB](https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![git](https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&logoColor=red)
 ![HTML5](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=darkblue)
 
