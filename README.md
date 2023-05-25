@@ -14,12 +14,12 @@
 [![mail](https://img.shields.io/badge/eMail-384754?style=for-the-badge&logo=GMail)](mailto:sayhellokittzy@gmail.com)
 
 ### My stack
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![git](https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&logoColor=red)
-![HTML5](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=darkblue)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green)
+![DRF](https://img.shields.io/badge/django%20rest-000000?style=for-the-badge&logo=django&logoColor=white)
+![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=red)
+![HTML5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=darkblue)
 
 ### Wokrspace
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=orange)
