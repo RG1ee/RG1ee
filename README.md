@@ -12,7 +12,7 @@
 [![mail](https://img.shields.io/badge/eMail-384754?style=for-the-badge&logo=GMail)](mailto:sayhellokittzy@gmail.com)
 
 ### My stack and workspace
-[![My Skills](https://skillicons.dev/icons?i=py,django,redis,postgres,git,githubactions,docker,html,css,js,linux,neovim,bash,vscode&perline=7&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,redis,postgres,git,githubactions,docker,html,css,js,linux,neovim,bash,vscode&perline=5&theme=dark)](https://skillicons.dev)
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RG1ee&theme=github-dark&hide_border=true"/>
